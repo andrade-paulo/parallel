@@ -1,1 +1,4 @@
 *.bin
+*.out
+*.vscode
+*/blur_filter/*.txt
