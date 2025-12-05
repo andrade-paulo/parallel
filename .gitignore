@@ -1,4 +1,5 @@
 *.bin
 *.out
+*/build/
 *.vscode
 */blur_filter/*.txt

@@ -2,7 +2,7 @@
 #include <stdio.h>  
 
 int main(){ 
-    const int SIZE = 100;
+    const int SIZE = 10;
     int n = 50; 
     float a[SIZE];
 
